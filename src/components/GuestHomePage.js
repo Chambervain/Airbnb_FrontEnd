@@ -4,7 +4,6 @@ import {
   message,
   Tabs,
   List,
-  Typography,
   Form,
   InputNumber,
   DatePicker,
@@ -18,7 +17,6 @@ import {
   getReservations,
   searchStays,
   bookStay,
-  cancelReservartion,
   cancelReservation,
 } from "../utils";
 import { LeftCircleFilled, RightCircleFilled } from "@ant-design/icons";
